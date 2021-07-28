@@ -1,7 +1,7 @@
 # SWBATs
 
-[ ] Students will be able to represent relationships with Active Record
 [ ] Students will be able to implement database diagrams
+[ ] Students will be able to represent relationships with Active Record
 
 # Objectives
 
@@ -11,6 +11,10 @@
 
 [ ] Create a migration that represents a relationship
 [ ] Add relationship macros to active record model
+
+[ ] Bonus
+    [ ] dependent_destroy
+    [ ] validations - https://guides.rubyonrails.org/active_record_basics.html#validations
 
 # Vocab
 
